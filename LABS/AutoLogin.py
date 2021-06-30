@@ -65,7 +65,7 @@ for row in range(x):
                                                                                                             "4]").text
 print(IDbuttonlist)
 
-
+s
 # Taking all the phone number into a list
 for i in range(len(IDbuttonlist)):
    # work on the time function that compare the time of machine to the time of the paid order then enters the netxt if
