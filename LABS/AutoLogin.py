@@ -51,7 +51,9 @@ def FirstOperation():
     RetrieveDate()
     # running on all the table and grab the info
 
-def Testtiming():
+def Testtiming(IDbuttonsId, x):
+    
+    list(IDbuttonsId.items())[i][1][11:]
     
     
     
@@ -76,7 +78,7 @@ print(IDbuttonlist)
 # Taking all the phone number into a list
 for i in range(len(IDbuttonlist)):
    # work on the time function that compare the time of machine to the time of the paid order then enters the netxt if
-    if list(IDbuttonlist.items())[i][1][11:] 
+    if  
     if list(IDbuttonlist.items())[i][0] == driver.find_element_by_xpath("//html/body/div[1]/div/div/div[3]/div[2]/div["
                                                                         "1]/table/tbody/tr[" + str(i + 1) +
                                                                         "]/td[7]/div["
