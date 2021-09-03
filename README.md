@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benco351
-- 👀 I’m interested in DevOps Engineer 
-- 🌱 I’m currently learning DevOps Engineer , CCNA ,Linux , Python&Bash 
+- 👀 I’m interested in UI, Automations.
+- 🌱 I’m currently DevOps Engineer & Cloud consultant , CCNA-Certificated ,Linux-expert , Backend Python programmer. 
 - 💞️ I’m looking to collaborate on High tech company \ Start-Up
 - 📫 How to reach me bencohen80@gmail.com 
 
