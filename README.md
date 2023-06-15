@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Benco351
-- 👀 I’m interested in UI, Automations.
-- 🌱 I’m currently DevOps Engineer & Cloud consultant , CCNA-Certificated ,Linux-expert , Backend Python programmer. 
+- 👀 I’m interested in DevOps,Frontend/Backend programming.
+- 🌱 I’m currently 2nd year computer science Student.
 - 💞️ I’m looking to collaborate on High tech company \ Start-Up
-- 📫 How to reach me bencohen646@gmail.com 
+- 📫 How to reach me to see my private repos/get in touch bencohen646@gmail.com.  
 
 <!---
 Benco351/Benco351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
