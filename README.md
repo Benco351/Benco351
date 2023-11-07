@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate and driven computer science stude
 ### About Me
 
 - 🎓 Third-year computer science student specializing in Computer Engineering.
-- 💼 Volunteering on the Eternity project as a programmer ([Eternity Project](https://eternityws.com/)), a free website generator for immortalizing fallen soldiers and civilians.
+- 💼 Volunteering on the Eternity project ([Eternity Project](https://eternityws.com/)) as a programmer, a free website generator for immortalizing fallen soldiers and civilians.
 
 ### My Skills
 
