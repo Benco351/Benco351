@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I'm a passionate and driven computer science stude
 
 ### About Me
 
-- 📚 I'm currently a Third-year computer science student, working toward my B.Sc. with a specialization in Computer Engineering.
+- 🎓 Third-year computer science student specializing in Computer Engineering.
+- 💼 Volunteering on the Eternity project, a free website generator for immortalizing fallen soldiers and civilians.
 
 ### My Skills
 
