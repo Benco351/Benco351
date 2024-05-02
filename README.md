@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate and driven computer science stude
 
 ### My Achievements
 
-- 🚀 I co-founded a startup (Finner - a FinTech Real-Time News Feed Application for Retailers), showcasing my entrepreneurial spirit and leadership.
+- 🚀 I was a DevOps Engineer at  (Finner - a FinTech Real-Time News Feed Application for Retailers), showcasing my experience in the DevOps field.
 - 🎓 I received an AWS Founder's Club startup scholarship, recognizing my innovation and commitment.
 - 🌐 I've been part of professional webinars and business meetings, broadening my network and knowledge.
 
