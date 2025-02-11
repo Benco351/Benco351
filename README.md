@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate and driven computer science stude
 
 ### About Me
 
-- 🎓 Third-year computer science student specializing in Computer Engineering.
+- 🎓 Fourth-year Software Engineer student.
 - 💼 Volunteering on the Eternity project ([Eternity Project](https://eternityws.com/)) as a programmer, a free website generator for immortalizing fallen soldiers and civilians.
 
 ### My Skills
@@ -20,10 +20,6 @@ Welcome to my GitHub profile! I'm a passionate and driven computer science stude
 - 🚀 I was a DevOps Engineer at  (Finner - a FinTech Real-Time News Feed Application for Retailers), showcasing my experience in the DevOps field.
 - 🎓 I received an AWS Founder's Club startup scholarship, recognizing my innovation and commitment.
 - 🌐 I've been part of professional webinars and business meetings, broadening my network and knowledge.
-
-### What I'm Looking For
-
-I'm eager to collaborate with high-tech companies and startups, where I can apply my skills, learn from experienced professionals, and contribute to innovative projects. If you'd like to reach out, explore my private repositories, or discuss potential collaborations, feel free to contact me at bencohen646@gmail.com.
 
 <!---
 Benco351/Benco351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
