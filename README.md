@@ -48,4 +48,3 @@ Welcome to my GitHub profile! I'm a passionate and driven DevOps, with a passion
 ## Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/ben-cohen/)
-- [GitHub](https://github.com/yourusername)
